@@ -195,3 +195,19 @@ footer p {
     padding: 20px 50px;
     text-align: center;
 }
+
+.info-toggle-btn {
+    background-color: #171731;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-weight: bold;
+}
+
+.info-toggle-btn:hover {
+    background-color: #303064;
+}
